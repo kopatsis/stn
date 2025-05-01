@@ -69,7 +69,7 @@ This allows for over 1 billion unique IDs with 5 characters. When usage approach
 
 ---
 
-## ? Any questions?
+## ? Any questions
 
 > Fill out this form and [Contact Me Here](https://kopatsis.com#contact)  
 
